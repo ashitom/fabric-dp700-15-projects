@@ -1,1 +1,1 @@
-
+This Repository holds projects completed in Azure Data Fabric, including data ingestion, transformation and storage. In these projects, we shall cover different data ingestion patterns like batch and streaming data. We shall be utilising Dataflow Gen2, pipelines, eventstreams for our low-code, no-code data ingestion, while incorporating notebooks created with pyspark, spark sql, T-SQL or K-QL for more complex transformations. We shall also be covering how to decide which tool to use under different business needs and also cover performance tuning.
